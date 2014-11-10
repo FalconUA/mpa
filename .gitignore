@@ -1,0 +1,15 @@
+# precompiled source
+*.o
+
+# precompiled headers
+*.gch
+
+# vim files
+*.swp
+
+# gedit files
+*~
+
+# some source files that created only for feature testing
+gputest
+gpuoptest.cpp
